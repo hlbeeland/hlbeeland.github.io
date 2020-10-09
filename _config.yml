@@ -221,6 +221,8 @@ exclude:
   - screenshot.png
   - docs/
 
+paginate_path: "//blog/page:num/"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
