@@ -7,7 +7,7 @@ subtitle: I'm learning how to use this...
 I'm more used to regular html but my goals are to:
 
 - Help Tony make a research page
-- Add all his info from forever alo
+- Add all his info from forever ago
 - He will have to make a pay site
 - I will have to do "The Hard Way" instead of this.
 
