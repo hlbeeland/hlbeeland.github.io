@@ -83,7 +83,7 @@ url-pretty: "MyWebsite.com"
 excerpt_length: 30
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
@@ -190,7 +190,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 0
+paginate: 5
 
 kramdown:
   input: GFM
